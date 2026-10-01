@@ -1,8 +1,4 @@
-
+<img width="640" height="181" alt="Image" src="https://github.com/user-attachments/assets/da04b505-cc29-435d-a25a-4aa9f10e7eca" />
         
-  　　　　　　![](https://komarev.com/ghpvc/?username=yumdalton&color=CDDAA8&label=　　🗡　　 )　
-
-  
-  　　　　<img width="200" height="200" alt="Image" src="https://files.catbox.moe/pl9ab5.gif" />　　　　　[strawpage](https://solarata.straw.page/)
-
-<img width="200" height="200" alt="Image" src="https://files.catbox.moe/hj58jt.jpg" />
+  　　　　　　![](https://komarev.com/ghpvc/?username=yumdalton&color=7f49b4&label=　　🗡　　 )　
+wip atm
